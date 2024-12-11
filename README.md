@@ -1,5 +1,6 @@
 - 👋 Olá, mundo!
-Sou Aléxia, estudante de Analise e Desinvolvimewnto de Sistemas
+Sou Aléxia,
+estudante de Analise e Desinvolvimewnto de Sistemas
 na Universidade Catolica de Brasilia.
 Estou no 2° semestre. 
 
